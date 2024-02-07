@@ -1,0 +1,65 @@
+.bg-img{
+    background-image: url(https://media.istockphoto.com/photos/note-paper-with-blood-donation-concept-on-red-background-picture-id1252380604?b=1&k=20&m=1252380604&s=170667a&w=0&h=-9QDmdi5I97950FdoOvwElUbuGc0MA9j3xp1PKCMhh8=);
+    height: auto;
+    width: 100vw;
+    background-size: cover;
+    padding: 20px;
+    margin: 10px;
+    border: 1.5px solid black;
+}
+.fillup{
+    background-color:white;
+    height: 90vh;
+    width: 35vw;
+    border-radius: 10px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    padding: 8px;
+}
+.tagline{
+    font-family: 'Roboto';
+    margin-left: 225px;
+    color: white;
+}
+.naming{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.aging{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.phone{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.mail{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.birth{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.group{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.percent{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.problems{
+    font-family: 'Roboto';
+    font-size: 19px;
+}
+.btn{
+    width: 140px;
+    margin-left: 60px;
+    text-decoration: none;
+}
+.btn{
+    width: 140px;
+    text-decoration: none;
+}
+

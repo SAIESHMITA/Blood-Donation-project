@@ -1,0 +1,86 @@
+.donar{
+    margin-left: 1200px;
+    font-family: 'Roboto';
+    padding: 20px;
+    color: red;
+    text-decoration: none;
+}
+.card{
+    height: 80px;
+    background-color: black;
+}
+.head{
+    font-family: 'Roboto';
+    color: red;
+    margin-bottom: auto;
+    padding: 15px;
+}
+.semi-heading{
+    font-family: 'Roboto';
+    margin-left: 300px;
+    padding: 10px;
+    color: red;
+}
+.eligibility{
+    font-family: Bookman Old style;
+    margin: 20px;
+    padding: 5px;
+    font-size: large;
+}
+.imaging{
+    height: 350px;
+    width: 450px;
+    border-radius: 10px;
+    float: right;
+}
+.mini-heading{
+    font-family: 'Roboto';
+    margin-left: 350px;
+    padding: 10px;
+    color: red;
+}
+.content{
+    font-family: Bookman Old style;
+    margin: 20px;
+    padding: 5px;
+    text-align: justify;
+    font-size: large;
+}
+.searching{
+    text-align: center;
+    font-family: 'Roboto';
+    color: red;
+    font-size: 45px;
+}
+.top{
+    width: 45px;
+    height: 45px;
+    margin-left: 1350px;
+    border-radius: 50%;
+}
+.TypesofBloodGroups,.TypesofBloodGroups1{
+    margin-left: 100px;
+}
+.group1,.group2,.group3,.group4,.group5,.group6,.group7,.group8{
+    background-color: red;
+    height: 45vh;
+    width: 14vw;
+    border-radius: 15px;
+    margin: 50px;
+    padding: 8px;
+}
+.pic-1,.pic-2,.pic-3,.pic-4,.pic-5,.pic-6,.pic-7,.pic-8{
+    height: 32vh;
+    width: 13vw;
+    border-radius: 40px;
+    padding: 15px;
+}
+.naming1,.naming2,.naming3,.naming4,.naming5,.naming6,.naming7,.naming8{
+    text-align: center;
+    font-family: Bookman old style;
+}
+.btn{
+    margin-left: 675px;
+    margin-bottom: 30px;
+    width: 100px;
+}
